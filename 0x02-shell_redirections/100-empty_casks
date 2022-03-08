@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 find -empty | rev | cut -d'/' -f1 | rev
+=======
+find -empty | rev cut -d'/' -f1 | rev
+>>>>>>> 057fcc754a8200a7fa5373802f02bcb080ac1e61
